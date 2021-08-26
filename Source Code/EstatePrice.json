@@ -1,0 +1,219 @@
+{
+"ANG_MO_KIO": 
+{
+    "OneRoom": 223600,
+    "TwoRoom": 238300,
+    "ThreeRoom": 277000,
+    "FourRoom": 415000    ,
+    "FiveRoom": 636000    ,
+    "Executive": 756000
+},
+"BEDOK":
+{
+    "OneRoom": 214600,
+    "TwoRoom": 263400,
+    "ThreeRoom": 275000    ,
+    "FourRoom": 385000,
+    "FiveRoom": 560000,
+    "Executive": 730000
+},
+"BISHAN": 
+{
+    "OneRoom": 369400    ,
+    "TwoRoom": 379200    ,
+    "ThreeRoom": 410000    ,
+    "FourRoom": 530000,
+    "FiveRoom": 760000,
+    "Executive": 863000
+},
+"BUKIT_MERAH": 
+{
+    "OneRoom": 188300    ,
+    "TwoRoom": 236400    ,
+    "ThreeRoom": 266000    ,
+    "FourRoom": 365500    ,
+    "FiveRoom": 525000,
+    "Executive": 578000
+},
+"BUKIT_PANJANG": 
+{
+    "OneRoom": 228900    ,
+    "TwoRoom": 263400    ,
+    "ThreeRoom": 316500    ,
+    "FourRoom": 415000    ,
+    "FiveRoom": 520900    ,
+    "Executive": 608000
+},
+"BUKIT_TIMAH": 
+{
+    "OneRoom": 282300    ,
+    "TwoRoom": 319600    ,
+    "ThreeRoom": 370400    ,
+    "FourRoom": 508400    ,
+    "FiveRoom": 713400    ,
+    "Executive": 851400
+},
+"CENTRAL": 
+{
+    "OneRoom": 340600    ,
+    "TwoRoom": 390500    ,
+    "ThreeRoom": 400000    ,
+    "FourRoom": 710000    ,
+    "FiveRoom": 915000    ,
+    "Executive": 1146100
+},
+"CHOA_CHU_KANG": 
+{
+    "OneRoom": 278500,
+    "TwoRoom": 291600,
+    "ThreeRoom": 308000,
+    "FourRoom": 386500,
+    "FiveRoom": 440000,
+    "Executive": 538900
+},
+"GEYLANG": 
+{
+    "OneRoom": 192500,
+    "TwoRoom": 217800,
+    "ThreeRoom": 259500,
+    "FourRoom": 545000,
+    "FiveRoom": 689000,
+    "Executive": 827000
+},
+"HOUGANG": 
+{
+    "OneRoom": 222700,
+    "TwoRoom": 244300,
+    "ThreeRoom": 290000,
+    "FourRoom": 393000,
+    "FiveRoom": 537900,
+    "Executive": 657000
+},
+"JURONG_EAST": 
+{
+    "OneRoom": 198300,
+    "TwoRoom": 226600,
+    "ThreeRoom": 280000,
+    "FourRoom": 400000,
+    "FiveRoom": 471500,
+    "Executive": 556500
+},
+"JURONG_WEST": 
+{
+    "OneRoom": 206700,
+    "TwoRoom": 246300,
+    "ThreeRoom": 265000,
+    "FourRoom": 360000,
+    "FiveRoom": 448000,
+    "Executive": 548500
+},
+"KALLANG": 
+{
+    "OneRoom": 214100	  ,
+    "TwoRoom": 226500,
+    "ThreeRoom": 283900,
+    "FourRoom": 515000,
+    "FiveRoom": 663500,
+    "Executive": 868500
+},
+"MARINE_PARADE": 
+{
+    "OneRoom": 350000,
+    "TwoRoom": 367800,
+    "ThreeRoom": 375000,
+    "FourRoom": 580000,
+    "FiveRoom": 811100,
+    "Executive": 916100
+},
+"PASIR_RIS": 
+{
+    "OneRoom": 271800,
+    "TwoRoom": 303400,
+    "ThreeRoom": 361000,
+    "FourRoom": 428000,
+    "FiveRoom": 495000,
+    "Executive": 605000
+},
+"PUNGGOL": 
+{
+    "OneRoom": 232400 ,
+    "TwoRoom": 245500,
+    "ThreeRoom": 360000,
+    "FourRoom": 465000,
+    "FiveRoom": 560000,
+    "Executive": 658800
+},
+"QUEENSTOWN": 
+{
+    "OneRoom": 284800,
+    "TwoRoom": 304900,
+    "ThreeRoom": 320400,
+    "FourRoom": 783500,
+    "FiveRoom": 921500,
+    "Executive": 1041500
+},
+"SEMBAWANG": 
+{
+    "OneRoom": 217300    ,
+    "TwoRoom": 261000,
+    "ThreeRoom": 312000,
+    "FourRoom": 360000,
+    "FiveRoom": 410000,
+    "Executive": 480000
+},
+"SENGKANG": 
+{
+    "OneRoom": 284500    ,
+    "TwoRoom": 319600,
+    "ThreeRoom": 350000,
+    "FourRoom": 435000,
+    "FiveRoom": 475000,
+    "Executive": 570000
+},
+"SERANGOON": 
+{
+    "OneRoom": 265900    ,
+    "TwoRoom": 300300  ,
+    "ThreeRoom": 326200,
+    "FourRoom": 425000,
+    "FiveRoom": 590000,
+    "Executive": 685000
+},
+"TAMPINES": 
+{
+    "OneRoom": 257900 ,
+    "TwoRoom": 269600   ,
+    "ThreeRoom": 322500,
+    "FourRoom": 430100,
+    "FiveRoom": 522000,
+    "Executive": 685000
+},
+"TOA_PAYOH": 
+{
+    "OneRoom": 200100,
+    "TwoRoom": 230200,
+    "ThreeRoom": 250000,
+    "FourRoom": 550000,
+    "FiveRoom": 720000,
+    "Executive": 825000
+},
+"WOODLANDS": 
+{
+    "OneRoom": 228200,
+    "TwoRoom": 253200,
+    "ThreeRoom": 255000,
+    "FourRoom": 350000,
+    "FiveRoom": 425000,
+    "Executive": 580000
+},
+"YISHUN": 
+{
+    "OneRoom": 218000,
+    "TwoRoom": 226500,
+    "ThreeRoom": 280000,
+    "FourRoom": 365300,
+    "FiveRoom": 480000,
+    "Executive": 565000
+}
+    
+}

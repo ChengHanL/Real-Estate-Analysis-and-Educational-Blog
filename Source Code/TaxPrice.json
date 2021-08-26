@@ -1,0 +1,53 @@
+{
+ 
+    "Level1":
+    {
+        "lower_av": "0",
+        "upper_av": "8000",
+        "rate": 0
+    },
+    "Level2":
+    {
+        "lower_av": "8000",
+        "upper_av": "55000",
+        "rate": 0.04
+    },
+    "Level3":
+    {
+        "lower_av": "55001",
+        "upper_av": "70000",
+        "rate": 0.06
+    },
+    "Level4":
+    {
+        "lower_av": "70001",
+        "upper_av": "85000",
+        "rate": 0.08
+    },
+    "Level5":
+    {
+        "lower_av": "85001",
+        "upper_av": "100000",
+        "rate": 0.10
+    },
+    "Level6":
+    {
+        "lower_av": "100001",
+        "upper_av": "115000",
+        "rate": 0.12
+    },
+    "Level7":
+    {
+        "lower_av": "115001",
+        "upper_av": "130000",
+        "rate": 0.14
+    },
+    "Level8":
+    {
+        "lower_av": "130000",
+        "upper_av": "99999999999",
+        "rate": 0.16
+    }
+ 
+
+}

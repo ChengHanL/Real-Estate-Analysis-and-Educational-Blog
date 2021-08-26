@@ -1,0 +1,183 @@
+{
+    "ANG_MO_KIO":[ 
+		{"Name": "Ang Mo Kio Primary School", "LAT": 1.369386, "LONG": 103.839821},
+		{"Name": "Kam Jia Zhuang Seafood Steamboat", "LAT": 1.368525, "LONG": 103.844096},
+		{"Name": "Frankie's Place Coffeeshop", "LAT": 1.370608, "LONG": 103.8571},
+		{"Name": "Ang Mo Kio MRT Station", "LAT": 1.370025, "LONG": 103.849588}
+    ],
+	
+    "BEDOK":[
+		{"Name": "Kinderland Preschool @ Siglap", "LAT": 1.316769, "LONG": 103.92752},
+		{"Name": "Blk 216 Bedok Food Centre and Market", "LAT": 1.327523, "LONG": 103.93338},
+		{"Name": "Heng Guan Homemade Dim Sum", "LAT": 1.33144, "LONG": 103.930076},
+		{"Name": "Bedok MRT Station", "LAT": 1.324043, "LONG": 103.930205}
+	],
+	
+    "BISHAN":[
+		{"Name": "Whitley Secondary School", "LAT": 1.355535, "LONG": 103.842923},
+		{"Name": "Jai Thai Restaurant", "LAT": 1.350174, "LONG": 103.8431},
+		{"Name": "Club July Bishan SMRT", "LAT": 1.355198, "LONG": 103.84999},
+		{"Name": "Bishan MRT Station", "LAT": 1.35092, "LONG": 103.848206}
+	],
+
+	"BUKIT BATOK":[
+		{"Name": "Princess Elizabeth Primary School", "LAT": 1.349254, "LONG": 103.740945},
+		{"Name": "Srisun Express Bukit Batok", "LAT": 1.350476, "LONG": 103.745642},
+		{"Name": "Hilltop Garden Restaurant", "LAT": 1.352596, "LONG": 103.74941},
+		{"Name": "Bukit Batok MRT Station", "LAT": 1.349069, "LONG": 103.749596}
+	],
+	
+	"BUKIT_MERAH":[
+		{"Name": "Gan Eng Seng Primary School", "LAT": 1.285764, "LONG": 103.81526},
+		{"Name": "Zi Yean Restaurant", "LAT": 1.287944, "LONG": 103.814364},
+		{"Name": "Bukit Merah View Market", "LAT": 1.285473, "LONG": 103.822269},
+		{"Name": "Tiong Bahru MRT Station", "LAT": 1.286555, "LONG": 103.826956}
+	],
+	
+	"BUKIT_PANJANG":[
+		{"Name": "Fajar Secondary School", "LAT": 1.37551, "LONG": 103.76454},
+		{"Name": "Saizeriya - Hillion Mall", "LAT": 1.378608, "LONG": 103.762649},
+		{"Name": "Markozar", "LAT": 1.380383, "LONG": 103.757376},
+		{"Name": "Bukit Panjang MRT Station", "LAT": 1.37834, "LONG": 103.762452}
+	],
+	
+	"BUKIT_TIMAH":[
+		{"Name": "Henry Park Primary School", "LAT": 1.316782, "LONG": 103.784136},
+		{"Name": "Riders Café", "LAT": 1.342986, "LONG": 103.797256},
+		{"Name": "Ristorante Da Valentino", "LAT": 1.336858, "LONG": 103.793947},
+		{"Name": "Sixth Avenue MRT Station", "LAT": 1.331221, "LONG": 103.79718}
+	],
+	
+	"CENTRAL":[
+		{"Name": "Kaplan City Campus @ Wilkie Edge", "LAT": 1.302116, "LONG": 103.849632},
+		{"Name": "Yume Patisserie", "LAT": 1.300138, "LONG": 103.849069},
+		{"Name": "I'm Kim Korean BBQ", "LAT": 1.299092, "LONG": 103.8488},
+		{"Name": "Dhoby Ghaut MRT Station", "LAT": 1.299169, "LONG": 103.845799}
+	],
+	
+	"CHOA_CHU_KANG":[
+		{"Name": "Star Tots Playgroup", "LAT": 1.379177, "LONG": 103.743102},
+		{"Name": "Sin Tong Hong Eating House", "LAT": 1.383312, "LONG": 103.740763},
+		{"Name": "Food Junction", "LAT": 1.385349, "LONG": 103.744824},
+		{"Name": "Choa Chu Kang MRT Station", "LAT": 1.385417, "LONG": 103.744316}
+	],
+	
+	"CLEMENTI":[
+		{"Name": "Nan Hua Primary School", "LAT": 1.319799, "LONG": 103.761943},
+		{"Name": "Mr Prata", "LAT": 1.316957, "LONG": 103.76544},
+		{"Name": "Heloja", "LAT": 1.317267, "LONG": 103.760967},
+		{"Name": "Clementi MRT Station", "LAT": 1.314925, "LONG": 103.765341}
+	],
+	
+	"GEYLANG":[
+		{"Name": "Manjusri Secondary School", "LAT": 1.327514, "LONG": 103.901321},
+		{"Name": "Geylang Serai Malay Market and Food Centre", "LAT": 1.316734, "LONG": 103.898276},
+		{"Name": "Shi Wei Xian HongKong Dim Sum", "LAT": 1.319844, "LONG": 103.885948},
+		{"Name": "Paya Lebar MRT Station", "LAT": 1.318214, "LONG": 103.893133}
+	],
+	
+	"HOUGANG":[
+		{"Name": "Holy Innocents' High School", "LAT": 1.371146, "LONG": 103.896016},
+		{"Name": "Blk 511 Fishball Minced Meat Noodles", "LAT": 1.372064, "LONG": 103.888901},
+		{"Name": "511 Hougang Mixed Vege Rice", "LAT": 1.372077, "LONG": 103.889041},
+		{"Name": "Hougang MRT Station", "LAT": 1.371406, "LONG": 103.892533}
+	],
+	
+	"JURONG_EAST":[
+		{"Name": "Yuhua Primary School", "LAT": 1.342978, "LONG": 103.740911},
+		{"Name": "Domino's Jurong East", "LAT": 1.336714, "LONG": 103.742886},
+		{"Name": "Tea House by Soup Restaurant - IMM", "LAT": 1.334349, "LONG": 103.746378},
+		{"Name": "Jurong East MRT Station", "LAT": 1.333207, "LONG": 103.742308}
+	],
+	
+	"JURONG_WEST":[
+		{"Name": "Al-Nasry @ Jurong West Kindergarten", "LAT": 1.347177, "LONG": 103.699513},
+		{"Name": "Quality Rd Hawker Center", "LAT": 1.333252, "LONG": 103.710489},
+		{"Name": "Eating House 815", "LAT": 1.345334, "LONG": 103.696197},
+		{"Name": "Boon Lay MRT Station", "LAT": 1.33862, "LONG": 103.705817}
+	],
+	
+	"KALLANG":[
+		{"Name": "Dairy Farm Learning Campus (DFLC)", "LAT": 1.308059, "LONG": 103.880448},
+		{"Name": "Upper Boon Keng Market & Food Centre", "LAT": 1.314945, "LONG": 103.871576},
+		{"Name": "Bangkok Thailand food", "LAT": 1.31436, "LONG": 103.871291},
+		{"Name": "Kallang MRT Station", "LAT": 1.311532, "LONG": 103.871372}
+	],
+	
+	"MARINE_PARADE":[
+		{"Name": "Zee School", "LAT": 1.307642, "LONG": 103.892995},
+		{"Name": "Paisley & Cream", "LAT": 1.306666, "LONG": 103.891963},
+		{"Name": "North South East West Fusion Vegetarian Cuisine", "LAT": 1.307779, "LONG": 103.895001},
+		{"Name": "Dakota MRT Station", "LAT": 1.308474, "LONG": 103.888825}
+	],
+	
+	"PASIR_RIS":[
+		{"Name": "Meridian Secondary School", "LAT": 1.367529, "LONG": 103.94927},
+		{"Name": "The Nature's Vanity Pte Ltd", "LAT": 1.37295, "LONG": 103.942727},
+		{"Name": "Pasir Ris Central Hawker Centre", "LAT": 1.373495, "LONG": 103.951394},
+		{"Name": "Pasir Ris MRT Station", "LAT": 1.373234, "LONG": 103.949343}
+	],
+	
+	"PUNGGOL":[
+		{"Name": "Greenland Childcare @ Punggol", "LAT": 1.407697, "LONG": 103.900942},
+		{"Name": "Huang Hong Ji Porridge", "LAT": 1.403252, "LONG": 103.898917},
+		{"Name": "Bali Thai (Waterway Point)", "LAT": 1.406805, "LONG": 103.901996},
+		{"Name": "Punggol MRT Station", "LAT": 1.405191, "LONG": 103.902367}
+	],
+	
+	"QUEENSTOWN":[
+		{"Name": "Queenstown Good Shepherd Kindergarten", "LAT": 1.295119, "LONG": 103.807763},
+		{"Name": "Mei Ling Market & Food Centre", "LAT": 1.293314, "LONG": 103.802583},
+		{"Name": "Koon Beng Food Stuff", "LAT": 1.292289, "LONG": 103.802969},
+		{"Name": "Queenstown MRT Station", "LAT": 1.294867, "LONG": 103.805902}
+	],
+	
+	"SEMBAWANG":[
+		{"Name": "Canberra Primary School", "LAT": 1.450999, "LONG": 103.815539},
+		{"Name": "Broadway Food Centre", "LAT": 1.448056, "LONG": 103.816389},
+		{"Name": "An-nur Power Muslim Food", "LAT": 1.44808, "LONG": 103.816259},
+		{"Name": "Sembawang MRT Station", "LAT": 1.449133, "LONG": 103.82006}
+	],
+	
+	"SENGKANG":[
+		{"Name": "Springdale Primary School", "LAT": 1.39497, "LONG": 103.88968},
+		{"Name": "Koufu Sengkang General Hospital", "LAT": 1.395501, "LONG": 103.892314},
+		{"Name": "Heavenly Wang (SKH)", "LAT": 1.395288, "LONG": 103.893494},
+		{"Name": "Sengkang MRT Station", "LAT": 1.391682, "LONG": 103.895475}
+	],
+	
+	"SERANGOON":[
+		{"Name": "Peicai Secondary School", "LAT": 1.358649, "LONG": 103.870556},
+		{"Name": "Cottontail Creamery", "LAT": 1.350226, "LONG": 103.868958},
+		{"Name": "Companion Bread Bakery", "LAT": 1.351999, "LONG": 103.867705},
+		{"Name": "Serangoon MRT Station", "LAT": 1.349862, "LONG": 103.873635}
+	],
+	
+	"TAMPINES":[
+		{"Name": "British Council (S) Pre-School", "LAT": 1.356488, "LONG": 103.941234},
+		{"Name": "Harry's Tampines", "LAT": 1.355775, "LONG": 103.941639},
+		{"Name": "Nando's Tampines Mall", "LAT": 1.352533, "LONG": 103.944295},
+		{"Name": "Tampines MRT Station", "LAT": 1.354467, "LONG": 103.943325}
+	],
+	
+	"TOA_PAYOH":[
+		{"Name": "Zong Xiang Kindergarten", "LAT": 1.337031, "LONG": 103.8465},
+		{"Name": "The Larder Café", "LAT": 1.333929, "LONG": 103.848035},
+		{"Name": "Yan Mookata Toa Payoh", "LAT": 1.333933, "LONG": 103.849553},
+		{"Name": "Toa Payoh MRT Station", "LAT": 1.332405, "LONG": 103.847436}
+	],
+	
+	"WOODLANDS":[
+		{"Name": "Riverside Secondary School", "LAT": 1.440484, "LONG": 103.788589},
+		{"Name": "Al-Ameen Eating Corner", "LAT": 1.43919, "LONG": 103.783425},
+		{"Name": "Xin Yang Thai Food", "LAT": 1.44134, "LONG": 103.786628},
+		{"Name": "Woodlands MRT Station", "LAT": 1.436984, "LONG": 103.786406}
+	],
+	
+	"YISHUN":[
+		{"Name": "Yishun Secondary School", "LAT": 1.428133, "LONG": 103.828834},
+		{"Name": "Coba Coba", "LAT": 1.43159, "LONG": 103.833579},
+		{"Name": "Sinar Malay Seafood", "LAT": 1.42905, "LONG": 103.8303},
+		{"Name": "Yishun MRT Station", "LAT": 1.429666, "LONG": 103.835044}
+	]
+}

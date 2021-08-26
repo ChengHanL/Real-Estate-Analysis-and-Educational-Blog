@@ -1,0 +1,52 @@
+{
+  "ANG_MO_KIO":[
+  {
+    
+      "Food":[ {"Name": "Ang Mo Kio Primary School","LAT" :1.369386 , "LONG":103.839821}],
+    
+    "School":[{"Name": "Ang Mo Kio Primary School","LAT" :1.369386 , "LONG":103.839821 }]
+      , 
+  "Mrt": [{ "Name":"Ang Mo Kio MRT Station", "LAT":1.370025, "LONG":103.849588 }]
+      
+    }
+],
+
+  "BEDOK":[
+  {
+    
+      "Food":[ {"Name": "Heng Guan Homemade Dim Sum","LAT" :1.33144, "LONG":103.930076}],
+    
+    "School":[{"Name": "Kinderland Preschool @ Siglap","LAT" :1.316769 , "LONG":103.92752 }]
+      , 
+  "Mrt": [{ "Name":"Bedok MRT Station", "LAT":1.324043, "LONG":103.930205}]
+      
+    }
+],
+
+
+  "BISHAN":[
+  {
+    
+      "Food":[ {"Name": "Club July Bishan SMRT","LAT" :1.355198 , "LONG":103.84999}],
+    
+    "School":[{"Name": "Whitley Secondary School","LAT" :1.355535 , "LONG":103.842923 }]
+      , 
+  "Mrt": [{ "Name":"Bishan MRT Station", "LAT":1.35092, "LONG":103.848206 }]
+      
+    }
+],
+
+
+  "BUKIT_TIMAH":[
+  {
+    
+      "Food":[ {"Name": "Riders Café","LAT" :1.342986, "LONG":103.797256}],
+    
+    "School":[{"Name": "Henry Park Primary School","LAT" :1.316782 , "LONG":103.842923 }]
+      , 
+  "Mrt": [{ "Name":"Sixth Avenue MRT Station", "LAT":1.331221, "LONG":103.79718 }]
+      
+    }
+]
+
+}

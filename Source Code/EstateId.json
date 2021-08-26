@@ -1,0 +1,121 @@
+{
+    "ANG_MO_KIO": 
+    {
+        "Id": 18
+      
+    },
+    "BEDOK":
+    {
+        "Id": 19
+
+    },
+    "BISHAN": 
+    {
+        "Id": 20
+
+    },
+    "BUKIT_MERAH": 
+    {
+        "Id": 0
+
+    },
+    "BUKIT_PANJANG": 
+    {        "Id": 1
+
+    },
+    "BUKIT_TIMAH": 
+    {
+        "Id": 2
+
+    },
+    "CENTRAL": 
+    {
+        "Id":43 
+
+    },
+    "CHOA_CHU_KANG": 
+    {
+        "Id": 5
+
+    },
+    "GEYLANG": 
+    {
+        "Id": 49
+
+    },
+    "HOUGANG": 
+    {
+        "Id": 7
+
+    },
+    "JURONG_EAST": 
+    {
+        "Id": 8
+
+    },
+    "JURONG_WEST": 
+    {
+        "Id": 9
+
+    },
+    "KALLANG": 
+    {
+        "Id": 10
+
+    },
+    "MARINE_PARADE": 
+    {        "Id": 48
+
+    },
+    "PASIR_RIS": 
+    {
+        "Id": 15
+
+    },
+    "PUNGGOL": 
+    {
+        "Id": 17
+
+    },
+    "QUEENSTOWN": 
+    {
+        "Id": 23
+
+    },
+    "SEMBAWANG": 
+    {
+        "Id": 25
+
+    },
+    "SENGKANG": 
+    {
+        "Id": 26
+
+    },
+    "SERANGOON": 
+    {
+        "Id": 27
+
+    },
+    "TAMPINES": 
+    {
+        "Id": 31
+
+    },
+    "TOA_PAYOH": 
+    {
+        "Id": 34
+
+    },
+    "WOODLANDS": 
+    {
+        "Id": 53
+
+    },
+    "YISHUN": 
+    {       
+         "Id": 54
+
+    }
+        
+    }
